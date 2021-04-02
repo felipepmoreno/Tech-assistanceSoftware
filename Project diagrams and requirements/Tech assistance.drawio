@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T19:40:19.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="3V1ZIcMDbiLxXxj-zxKg" version="14.5.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-04-02T19:41:26.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="YElR-ybyfBJvU3CcSlxS" version="14.5.4" type="github" pages="4">
   <diagram id="fhYrM6fedOREc8LX-6zd" name="Fluxo de Negócios">
     <mxGraphModel dx="868" dy="527" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -262,7 +262,7 @@
           <mxGeometry x="317" y="341" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aGDb4Ro1W5bUOzmWCLxA-24" value="Id_tecnico" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2-ZSqhqYMnoBmDnUbMwL-1">
-          <mxGeometry x="515" y="469" width="100" height="40" as="geometry" />
+          <mxGeometry x="466" y="469" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aGDb4Ro1W5bUOzmWCLxA-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="2-ZSqhqYMnoBmDnUbMwL-1" source="aGDb4Ro1W5bUOzmWCLxA-26" target="aGDb4Ro1W5bUOzmWCLxA-30">
           <mxGeometry relative="1" as="geometry" />
