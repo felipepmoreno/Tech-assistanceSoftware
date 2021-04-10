@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-10T19:38:14.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.427" etag="PydZfmfOjZN0FX8bBvSl" version="14.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-04-10T19:38:34.771Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.427" etag="00ZVysdQFQAlMiulKFV0" version="14.4.4" type="github" pages="4">
   <diagram id="fhYrM6fedOREc8LX-6zd" name="Fluxo de Negócios">
     <mxGraphModel dx="1381" dy="764" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -336,7 +336,7 @@
             <mxPoint x="610" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zXhLOtwSqZOTrxeQM2Ml-3" value="Estado" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2-ZSqhqYMnoBmDnUbMwL-1">
+        <mxCell id="zXhLOtwSqZOTrxeQM2Ml-3" value="Complemento" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2-ZSqhqYMnoBmDnUbMwL-1">
           <mxGeometry x="535" y="319" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zXhLOtwSqZOTrxeQM2Ml-4" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="2-ZSqhqYMnoBmDnUbMwL-1" source="zXhLOtwSqZOTrxeQM2Ml-3" target="aGDb4Ro1W5bUOzmWCLxA-7">
