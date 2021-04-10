@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-10T19:41:48.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.427" etag="-U5TjJN__SZytZKIaXmh" version="14.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-04-10T19:43:10.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.427" etag="kfNTSyDpm-XJUAaKxSb8" version="14.4.4" type="github" pages="4">
   <diagram id="fhYrM6fedOREc8LX-6zd" name="Fluxo de Negócios">
     <mxGraphModel dx="1381" dy="764" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -186,7 +186,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Uy4hzoEuqUokP6v6UYgX" name="Diagrama ER">
-    <mxGraphModel dx="1454" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="986" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="2-ZSqhqYMnoBmDnUbMwL-0" />
         <mxCell id="2-ZSqhqYMnoBmDnUbMwL-1" parent="2-ZSqhqYMnoBmDnUbMwL-0" />
@@ -282,11 +282,11 @@
         <mxCell id="aGDb4Ro1W5bUOzmWCLxA-27" value="(1, 1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="2-ZSqhqYMnoBmDnUbMwL-1" vertex="1">
           <mxGeometry x="379" y="298" width="38" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="aGDb4Ro1W5bUOzmWCLxA-28" value="(1, 1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="2-ZSqhqYMnoBmDnUbMwL-1" vertex="1">
-          <mxGeometry x="381.75" y="530" width="38" height="18" as="geometry" />
+        <mxCell id="aGDb4Ro1W5bUOzmWCLxA-28" value="(n, m)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="2-ZSqhqYMnoBmDnUbMwL-1" vertex="1">
+          <mxGeometry x="375.75" y="529" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aGDb4Ro1W5bUOzmWCLxA-30" value="o" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="2-ZSqhqYMnoBmDnUbMwL-1" vertex="1">
-          <mxGeometry x="366" y="644" width="25" height="25" as="geometry" />
+          <mxGeometry x="364.5" y="644" width="25" height="25" as="geometry" />
         </mxCell>
         <mxCell id="aGDb4Ro1W5bUOzmWCLxA-31" value="U" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=21;rotation=-70;connectable=0;" parent="2-ZSqhqYMnoBmDnUbMwL-1" vertex="1">
           <mxGeometry x="393.5" y="658" width="25" height="29" as="geometry" />
@@ -343,7 +343,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zXhLOtwSqZOTrxeQM2Ml-5" value="Pedido" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2-ZSqhqYMnoBmDnUbMwL-1">
-          <mxGeometry x="327" y="480" width="100" height="40" as="geometry" />
+          <mxGeometry x="327" y="460" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zXhLOtwSqZOTrxeQM2Ml-6" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="2-ZSqhqYMnoBmDnUbMwL-1" source="aGDb4Ro1W5bUOzmWCLxA-21" target="zXhLOtwSqZOTrxeQM2Ml-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
