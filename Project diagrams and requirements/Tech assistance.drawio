@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-23T01:00:32.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="-wmUgjRBpXVjXf91M1te" version="14.6.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-04-23T01:30:00.240Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="XAu4S3Va-rQQvB2Z31zc" version="14.6.6" type="github" pages="4">
   <diagram id="fhYrM6fedOREc8LX-6zd" name="Fluxo de Negócios">
     <mxGraphModel dx="868" dy="527" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -220,6 +220,12 @@
         </mxCell>
         <mxCell id="sM4nDDVe7Kjpya3O-vPJ-14" value="Após a confirmação do desejo de mudança de informações na conta, após digitada a senha, poderei modificar meu perfil" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="27" y="1466" width="654" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="aVCE51Q3PPtq1mWUPrL8-1" value="Como cliente, caso meu problema não tenha sido resolvido, quero agendar um encontro com o técnico presencial:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="27" y="1510" width="619" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="aVCE51Q3PPtq1mWUPrL8-2" value="Após o final da reunião online, dadas as informações confirmadas, uma reunião presencial poderá ser agendada" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="28" y="1533" width="610" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
