@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-23T01:35:45.627Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="nfBodmyHJIRLLWc-LvNV" version="14.6.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-05-01T18:43:38.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="3FYDHRIISGVVi2lRNUzP" version="14.6.6" type="github" pages="4">
   <diagram id="fhYrM6fedOREc8LX-6zd" name="Fluxo de Negócios">
-    <mxGraphModel dx="868" dy="527" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="624" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -182,56 +182,56 @@
         <mxCell id="CYKeE9gmk5xtWuaOP8tf-4" value="3) Caso não esteja á alcance do técnico presencial, ele deve apresentar uma solução" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="629" y="1128" width="466" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="sM4nDDVe7Kjpya3O-vPJ-1" value="Artefatos:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="sM4nDDVe7Kjpya3O-vPJ-1" value="Artefatos:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="28" y="1173" width="61" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="sM4nDDVe7Kjpya3O-vPJ-3" value="Como cliente, eu quero me registrar/logar no software:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="sM4nDDVe7Kjpya3O-vPJ-3" value="Como cliente, eu quero me registrar/logar no software:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="26" y="1191" width="300" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="sM4nDDVe7Kjpya3O-vPJ-4" value="Dadas as informações, quando os dados forem preenchidos, então a entrada ao software é permitida" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="sM4nDDVe7Kjpya3O-vPJ-4" value="Dadas as informações, quando os dados forem preenchidos, então a entrada ao software é permitida" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="28" y="1209" width="550" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="sM4nDDVe7Kjpya3O-vPJ-5" value="Como cliente, quero registrar um pedido de assistência:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="sM4nDDVe7Kjpya3O-vPJ-5" value="Como cliente, quero registrar um pedido de assistência:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="27" y="1252" width="307" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="sM4nDDVe7Kjpya3O-vPJ-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
+        <mxCell id="sM4nDDVe7Kjpya3O-vPJ-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1158" y="1159" as="targetPoint" />
             <mxPoint x="14" y="1159" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sM4nDDVe7Kjpya3O-vPJ-6" value="Dada as informações necessárias, quando forem preenchidas, uma reunião com o assistente online será agendada" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="sM4nDDVe7Kjpya3O-vPJ-6" value="Dada as informações necessárias, quando forem preenchidas, uma reunião com o assistente online será agendada" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="28" y="1273" width="626" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="sM4nDDVe7Kjpya3O-vPJ-7" value="Como cliente, após registrado o pedido, quero ver as datas disponíveis de agendamento:&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="sM4nDDVe7Kjpya3O-vPJ-7" value="Como cliente, após registrado o pedido, quero ver as datas disponíveis de agendamento:&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="28" y="1386" width="488" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="sM4nDDVe7Kjpya3O-vPJ-9" value="Dadas as informações do pedido preenchidas, após o envio do pedido, poderei visualizar as datas disponíveis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="sM4nDDVe7Kjpya3O-vPJ-9" value="Dadas as informações do pedido preenchidas, após o envio do pedido, poderei visualizar as datas disponíveis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="28" y="1406" width="597" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="sM4nDDVe7Kjpya3O-vPJ-11" value="Como cliente, após agendada uma reunião, quero saber mais informações sobre o técnico que irá me atender:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="sM4nDDVe7Kjpya3O-vPJ-11" value="Como cliente, após agendada uma reunião, quero saber mais informações sobre o técnico que irá me atender:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="28" y="1315" width="600" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="sM4nDDVe7Kjpya3O-vPJ-12" value="Após agendada uma reunião, dado a conformidade e confirmação das informações do usuário,&lt;br&gt;irei receber as informações do técnico que irá me atender via email" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="sM4nDDVe7Kjpya3O-vPJ-12" value="Após agendada uma reunião, dado a conformidade e confirmação das informações do usuário,&lt;br&gt;irei receber as informações do técnico que irá me atender via email" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="33" y="1333" width="516" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="sM4nDDVe7Kjpya3O-vPJ-13" value="Como cliente, desejo modificar as informações no meu perfil:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="sM4nDDVe7Kjpya3O-vPJ-13" value="Como cliente, desejo modificar as informações no meu perfil:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="27" y="1444" width="335" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="sM4nDDVe7Kjpya3O-vPJ-14" value="Após a confirmação do desejo de mudança de informações na conta, após digitada a senha, poderei modificar meu perfil" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="sM4nDDVe7Kjpya3O-vPJ-14" value="Após a confirmação do desejo de mudança de informações na conta, após digitada a senha, poderei modificar meu perfil" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="27" y="1466" width="654" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="aVCE51Q3PPtq1mWUPrL8-1" value="Como cliente, caso meu problema não tenha sido resolvido, quero agendar um encontro com o técnico presencial:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="aVCE51Q3PPtq1mWUPrL8-1" value="Como cliente, caso meu problema não tenha sido resolvido, quero agendar um encontro com o técnico presencial:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="27" y="1510" width="619" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="aVCE51Q3PPtq1mWUPrL8-2" value="Após o final da reunião online, dadas as informações confirmadas, uma reunião presencial poderá ser agendada" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="aVCE51Q3PPtq1mWUPrL8-2" value="Após o final da reunião online, dadas as informações confirmadas, uma reunião presencial poderá ser agendada" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="28" y="1533" width="610" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Uy4hzoEuqUokP6v6UYgX" name="Diagrama ER">
-    <mxGraphModel dx="868" dy="527" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="734" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="2-ZSqhqYMnoBmDnUbMwL-0" />
         <mxCell id="2-ZSqhqYMnoBmDnUbMwL-1" parent="2-ZSqhqYMnoBmDnUbMwL-0" />
@@ -330,11 +330,11 @@
         <mxCell id="aGDb4Ro1W5bUOzmWCLxA-26" value="Técnico online" style="whiteSpace=wrap;html=1;align=center;" parent="2-ZSqhqYMnoBmDnUbMwL-1" vertex="1">
           <mxGeometry x="833.75" y="773" width="100" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="aGDb4Ro1W5bUOzmWCLxA-27" value="(1, 1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="2-ZSqhqYMnoBmDnUbMwL-1" vertex="1">
+        <mxCell id="aGDb4Ro1W5bUOzmWCLxA-27" value="(1, n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="2-ZSqhqYMnoBmDnUbMwL-1" vertex="1">
           <mxGeometry x="744" y="300" width="38" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="aGDb4Ro1W5bUOzmWCLxA-28" value="(n, m)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="2-ZSqhqYMnoBmDnUbMwL-1" vertex="1">
-          <mxGeometry x="740.75" y="612" width="50" height="20" as="geometry" />
+        <mxCell id="aGDb4Ro1W5bUOzmWCLxA-28" value="(1, n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="2-ZSqhqYMnoBmDnUbMwL-1" vertex="1">
+          <mxGeometry x="746.75" y="613" width="38" height="18" as="geometry" />
         </mxCell>
         <mxCell id="aGDb4Ro1W5bUOzmWCLxA-30" value="o" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="2-ZSqhqYMnoBmDnUbMwL-1" vertex="1">
           <mxGeometry x="729.5" y="727" width="25" height="25" as="geometry" />
@@ -435,11 +435,11 @@
             <mxPoint x="1035" y="542" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zXhLOtwSqZOTrxeQM2Ml-15" value="(n, m)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="2-ZSqhqYMnoBmDnUbMwL-1" vertex="1">
-          <mxGeometry x="746" y="412" width="50" height="20" as="geometry" />
+        <mxCell id="zXhLOtwSqZOTrxeQM2Ml-15" value="(1, n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="2-ZSqhqYMnoBmDnUbMwL-1" vertex="1">
+          <mxGeometry x="753" y="413" width="38" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="zXhLOtwSqZOTrxeQM2Ml-16" value="(n, m)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="2-ZSqhqYMnoBmDnUbMwL-1" vertex="1">
-          <mxGeometry x="746" y="502" width="50" height="20" as="geometry" />
+        <mxCell id="zXhLOtwSqZOTrxeQM2Ml-16" value="(1, 1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="2-ZSqhqYMnoBmDnUbMwL-1" vertex="1">
+          <mxGeometry x="752" y="503" width="38" height="18" as="geometry" />
         </mxCell>
         <mxCell id="zXhLOtwSqZOTrxeQM2Ml-20" value="Analisa" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="2-ZSqhqYMnoBmDnUbMwL-1" vertex="1">
           <mxGeometry x="325" y="725" width="120" height="60" as="geometry" />
@@ -560,6 +560,18 @@
             <mxPoint x="625" y="882" as="sourcePoint" />
             <mxPoint x="675" y="832" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aHTi9GotenbAAgFux_IH-0" value="(1, n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="2-ZSqhqYMnoBmDnUbMwL-1">
+          <mxGeometry x="479" y="770" width="38" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="aHTi9GotenbAAgFux_IH-1" value="(1, 1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="2-ZSqhqYMnoBmDnUbMwL-1">
+          <mxGeometry x="393" y="692" width="38" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="aHTi9GotenbAAgFux_IH-2" value="(1, 1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="2-ZSqhqYMnoBmDnUbMwL-1">
+          <mxGeometry x="387" y="588" width="38" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="aHTi9GotenbAAgFux_IH-3" value="(1, n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="2-ZSqhqYMnoBmDnUbMwL-1">
+          <mxGeometry x="267" y="512" width="38" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
