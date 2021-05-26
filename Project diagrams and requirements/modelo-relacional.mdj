@@ -870,7 +870,7 @@
 									"top": 381,
 									"width": 277.51416015625,
 									"height": 13,
-									"text": "Technic_Order"
+									"text": "Tech_Order"
 								},
 								{
 									"_type": "ERDColumnCompartmentView",
@@ -2400,7 +2400,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFLzntJC6EktCk="
 					},
-					"name": "Technic_Order",
+					"name": "Tech_Order",
 					"ownedElements": [
 						{
 							"_type": "ERDRelationship",
